@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Nikhil"
-  given-names: "Paliwal"
-- family-names: "Arpit"
-  given-names: "Jadon"
-- family-names: "Akshay"
-  given-names: "Dodwadmath"
+- family-names: "Paliwal"
+  given-names: "Nikhil"
+- family-names: "Jadon"
+  given-names: "Arpit"
+- family-names: "Dodwadmath"
+  given-names: "Akshay"
 title: "Making Neural Networks Robust in Resource Constrained Settings"
 version: 1.0
 date-released: 2022-02-07
