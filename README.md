@@ -34,7 +34,6 @@ We perform the following: <br/>
 | Baseline 1 + Baseline 2       | 17.99          |
 | Our method                    | **18.80**      |
 
-**You can get more detailed results in our [report](https://drive.google.com/file/d/1RWaGpMLMrfauIsgzrBdCfULZ9BIJlSN8/view?usp=sharing)**.
 
 ## Creating Docker
 
@@ -119,4 +118,6 @@ python pgd_transfer_attack.py
 ```
 
 ## Experiment results
+
 You can find all results logs in `exp/` directory.
+
